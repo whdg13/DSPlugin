@@ -1,0 +1,13 @@
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\bin\Plugin\dependencies\net472\runtimes\win-x86\native\e_sqlite3.dll
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\bin\Plugin\dependencies\net472\runtimes\win-x64\native\e_sqlite3.dll
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\bin\Plugin\dependencies\net472\runtimes\win-arm\native\e_sqlite3.dll
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\bin\Plugin\dependencies\net472\DiscordIntegration.Dependency.dll
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\bin\Plugin\dependencies\net472\DiscordIntegration.Dependency.pdb
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration.Dependency\obj\Debug\net472\DiscordIntegration.Dependency.csproj.AssemblyReference.cache
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration.Dependency\obj\Debug\net472\DiscordIntegration.Dependency.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration.Dependency\obj\Debug\net472\DiscordIntegration.Dependency.AssemblyInfoInputs.cache
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration.Dependency\obj\Debug\net472\DiscordIntegration.Dependency.AssemblyInfo.cs
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration.Dependency\obj\Debug\net472\DiscordIntegration.Dependency.csproj.CoreCompileInputs.cache
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration.Dependency\obj\Debug\net472\DiscordI.A17FF74E.Up2Date
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration.Dependency\obj\Debug\net472\DiscordIntegration.Dependency.dll
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration.Dependency\obj\Debug\net472\DiscordIntegration.Dependency.pdb

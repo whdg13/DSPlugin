@@ -1,0 +1,5 @@
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration\obj\Debug\net472\DiscordIntegration.csproj.AssemblyReference.cache
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration\obj\Debug\net472\DiscordIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration\obj\Debug\net472\DiscordIntegration.AssemblyInfoInputs.cache
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration\obj\Debug\net472\DiscordIntegration.AssemblyInfo.cs
+D:\code\.Sentinel Project 3.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration-7.0.3-3.0.0\DiscordIntegration\obj\Debug\net472\DiscordIntegration.csproj.CoreCompileInputs.cache
